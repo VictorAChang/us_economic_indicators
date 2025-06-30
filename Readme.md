@@ -31,7 +31,7 @@ The data was analyzed and visualized using static and dynamic. Both the data col
 
 <b style="font-size: 125%;"> Streamlit Application </b>
 
-[Click Here!]()
+[Click Here!](https://useconomicindicators.streamlit.app/)
 
 <b style="font-size: 125%;"> Correlation Heatmap </b>
 
