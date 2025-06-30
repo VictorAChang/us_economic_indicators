@@ -6,7 +6,11 @@
 
 <h1 style="text-align:center;"> Executive Summary </h1>
 
-Need to complete
+This project analyzes six major U.S. economic indicators from 2006 to 2016 using data from the St. Louis Federal Reserve. Key indicators include GDP, federal debt, mortgage rates, wealth concentration, and USD exchange rates with the Chinese Yuan and Euro.
+
+Findings reveal a strong correlation between GDP and federal debt, suggesting growth during this period was debt driven. Exchange rates showed contrasting effects: a stronger dollar against the Yuan aligned with rising GDP and debt, while strength against the Euro correlated with declines in both. Additionally, wealth concentration among the top 1% increased as mortgage rates declined, pointing to growing inequality.
+
+Overall, the analysis highlights key post recession trends in U.S. economic health and raises important considerations for fiscal policy and wealth distribution.
 
 <h1 style="text-align:center;"> Data Extraction </h1>
 
