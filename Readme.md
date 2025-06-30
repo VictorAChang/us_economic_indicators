@@ -29,6 +29,10 @@ The following six U.S. Economic Indicators were analyzed in this study:
 
 The data extracted was filtered to include only 10 years, starting on December 2006 and ending on December 2016. The data was gathered quarterly and merged into a single dataframe with a matching date column.
 
+<h1 style="text-align:center;"> Data Summary Statistics </h1>
+
+![alt text](images/summary_statistics.png)
+
 <h1 style="text-align:center;"> Data Visualizations </h1>
 
 The data was analyzed and visualized using static and dynamic graphs. Both the data columns and dynamic maps are better visualized in the streamlit application below. Additional graphs are also displayed below to show data correlations and trends over time for each economic indicator.
