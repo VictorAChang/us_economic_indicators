@@ -8,8 +8,8 @@ import streamlit as st
 # Streamlit App
 st.set_page_config(page_title="Economic Indicators Dashboard", layout="wide")
 st.title("Economic Indicators Dashboard")
-st.markdown("This dashboard provides insights into various economic indicators including exchange rates, GDP, exchange rates, mortgage rates, and wealth distribution. " \
-"The Total Public Debt as a percentage of GDP is also calculated to provide a clearer picture of the economic landscape.")
+st.markdown("This dashboard provides insights into various economic indicators including exchange rates, GDP, mortgage rates, and wealth distribution. " \
+"The Total Public Debt as a percentage of GDP is also calculated to provide a clearer picture of the economic landscape. This indicator is crucial for understanding the fiscal health of a country, as it shows how much of the country's debt is relative to its economic output. The smaller this percentage, the more manageable the debt is in relation to the country's GDP. ")
 
 # Load data from CSV files
 exchus = pd.read_csv("data/EXCHUS.csv")
